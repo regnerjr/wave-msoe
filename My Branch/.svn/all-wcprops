@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/158/trunk/My%20Branch
+END
+USART.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/136/trunk/My%20Branch/USART.c
+END
+Voltage.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/139/trunk/My%20Branch/Voltage.c
+END
+Counters.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/136/trunk/My%20Branch/Counters.c
+END
+Current.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/144/trunk/My%20Branch/Current.c
+END
+USART.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/136/trunk/My%20Branch/USART.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/158/trunk/My%20Branch/main.c
+END
+myBranch.aps
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/158/trunk/My%20Branch/myBranch.aps
+END
+Voltage.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/136/trunk/My%20Branch/Voltage.h
+END
+Current.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/136/trunk/My%20Branch/Current.h
+END
+Counters.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/136/trunk/My%20Branch/Counters.h
+END
+mybranch.aws
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/158/trunk/My%20Branch/mybranch.aws
+END

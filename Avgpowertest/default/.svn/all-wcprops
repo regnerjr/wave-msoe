@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/116/trunk/Avgpowertest/default
+END
+Avgpowertest.elf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/116/trunk/Avgpowertest/default/Avgpowertest.elf
+END
+Avgpowertest.eep
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/116/trunk/Avgpowertest/default/Avgpowertest.eep
+END
+Avgpowertest.map
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/116/trunk/Avgpowertest/default/Avgpowertest.map
+END
+Avgpowertest.lss
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/116/trunk/Avgpowertest/default/Avgpowertest.lss
+END
+Avgpowertest.hex
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/116/trunk/Avgpowertest/default/Avgpowertest.hex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/116/trunk/Avgpowertest/default/Makefile
+END

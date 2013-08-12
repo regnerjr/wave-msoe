@@ -1,0 +1,24 @@
+D:\WAVE\Plot Incoming Data\Plot Incoming Data\Plot Incoming Data\obj\Debug\ResolveAssemblyReference.cache
+D:\WAVE\Plot Incoming Data\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot_Incoming_Data.Form1.resources
+D:\WAVE\Plot Incoming Data\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot_Incoming_Data.Properties.Resources.resources
+D:\WAVE\Plot Incoming Data\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot Incoming Data.csproj.GenerateResource.Cache
+D:\WAVE\Plot Incoming Data\Plot Incoming Data\Plot Incoming Data\bin\Debug\Plot Incoming Data.exe
+D:\WAVE\Plot Incoming Data\Plot Incoming Data\Plot Incoming Data\bin\Debug\Plot Incoming Data.pdb
+D:\WAVE\Plot Incoming Data\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot Incoming Data.exe
+D:\WAVE\Plot Incoming Data\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot Incoming Data.pdb
+D:\MyDocs\Desktop\wave-msoe\trunk\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot Incoming Data.exe
+D:\MyDocs\Desktop\wave-msoe\trunk\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot Incoming Data.pdb
+D:\MyDocs\Desktop\wave-msoe\trunk\Plot Incoming Data\Plot Incoming Data\bin\Debug\Plot Incoming Data.exe
+D:\MyDocs\Desktop\wave-msoe\trunk\Plot Incoming Data\Plot Incoming Data\bin\Debug\Plot Incoming Data.pdb
+D:\MyDocs\Desktop\wave-msoe\trunk\Plot Incoming Data\Plot Incoming Data\obj\Debug\ResolveAssemblyReference.cache
+D:\MyDocs\Desktop\wave-msoe\trunk\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot_Incoming_Data.Form1.resources
+D:\MyDocs\Desktop\wave-msoe\trunk\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot_Incoming_Data.Properties.Resources.resources
+D:\MyDocs\Desktop\wave-msoe\trunk\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot Incoming Data.csproj.GenerateResource.Cache
+G:\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot Incoming Data.exe
+G:\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot Incoming Data.pdb
+G:\Plot Incoming Data\Plot Incoming Data\bin\Debug\Plot Incoming Data.exe
+G:\Plot Incoming Data\Plot Incoming Data\bin\Debug\Plot Incoming Data.pdb
+G:\Plot Incoming Data\Plot Incoming Data\obj\Debug\ResolveAssemblyReference.cache
+G:\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot_Incoming_Data.Form1.resources
+G:\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot_Incoming_Data.Properties.Resources.resources
+G:\Plot Incoming Data\Plot Incoming Data\obj\Debug\Plot Incoming Data.csproj.GenerateResource.Cache

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/116/trunk/sampling/default
+END
+SamplingAVR.map
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/116/trunk/sampling/default/SamplingAVR.map
+END
+SamplingAVR.lss
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/116/trunk/sampling/default/SamplingAVR.lss
+END
+SamplingAVR.hex
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/116/trunk/sampling/default/SamplingAVR.hex
+END
+SamplingAVR.elf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/116/trunk/sampling/default/SamplingAVR.elf
+END
+SamplingAVR.eep
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/116/trunk/sampling/default/SamplingAVR.eep
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/116/trunk/sampling/default/Makefile
+END
